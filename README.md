@@ -20,4 +20,4 @@ Files in this project
 - .gitignore — files to ignore
 - LICENSE — MIT license
 
-Replace placeholders (YOUR-USERNAME, YOUR-NAME, YEAR) before publishing.
+Replace placeholders (Hemalathaanandhan, Hemalatha A, 2025) before publishing.
