@@ -4,8 +4,8 @@ A small sample project that prints "Hello, world!" to the console.
 
 Quick start
 ```bash
-# clone (replace YOUR-USERNAME)
-git clone git@github.com:YOUR-USERNAME/hello-world.git
+
+git clone git@github.com:Hemalathaanandhan/hello-world.git
 cd hello-world
 
 # install and run
